@@ -1,0 +1,86 @@
+body{
+  font-family: "Abel", sans-serif;
+  font-size: 30px;
+  color: #3B3B3B;
+}
+h1, h2{
+ text-transform: uppercase;
+ margin: 0px;
+ padding: 0px;
+ text-align: center;
+
+}
+#logo h1{
+ line-height: 200px auto;
+ width: 1000px auto;
+ font-size: 8.0em;
+ padding: 150px 200px;
+ font-stretch: ultra-condensed;
+ letter-spacing: -3px;
+ color: white;
+}
+h2{
+ font-stretch: ultra-condensed;
+ letter-spacing: -2px;
+ padding: 30px 20px;
+ font-size: 4.0em;
+}
+.sectionContent{
+ width: 1400px;
+ overflow: hidden;
+ margin: 0px auto;
+ padding: 30px 30px;
+ font-size: 30px;
+ text-align: justify;
+}
+#section1{
+ background: #EAEAEA;
+}
+#section2{
+ position: relative;
+ height: 500px;
+ /*color: #EAEAEA;*/
+ padding: 300px 30px;
+ background-image: url(https://www.publicdomainpictures.net/pictures/220000/velka/autumn-colors-1494681713Gg7.jpg#.XXPWPHHf6fw.link);
+  color: white;
+}
+#section3{
+ background: #EAEAEA;
+}
+#section4{
+ position: relative;
+ height: 500px;
+ /*color: #EAEAEA;*/
+ padding: 300px 30px;
+ background-image: url(https://www.publicdomainpictures.net/pictures/220000/velka/autumn-colors-1494681713Gg7.jpg#.XXPWPHHf6fw.link);
+  color: white;
+}
+
+#section5{
+ background: #EAEAEA;
+}
+#sectionContent2{
+ background: rgba(255, 250, 250, 0.5);
+ color: #222222;
+}
+#sectionContent4{
+ background: rgba(255, 250, 250, 0.5);
+ color: #222222;
+}
+headicons{
+    text-align: right;
+    clear: both;
+    padding-top: 50px;
+}
+footer{
+    text-align: center;
+    font-weight: bold;
+    font-size: 0.7em;
+    clear: both;
+    padding-top: 50px;
+    color: #fff;
+}
+.social{
+    width: 30px;
+    margin: 0 10px;
+}
